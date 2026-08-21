@@ -19,7 +19,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 
 ---
 
-## 🎯 Career Direction
+## 🎯 Building On
 <p align="center"><img src="assets/career-focus.svg" width="100%" alt="Career direction — Cloud, Data, AI and Automation" /></p>
 
 My strongest professional direction is toward **cloud-native engineering and intelligent data systems** — combining AWS, data engineering, AI/ML and workflow automation to build scalable, useful products.
