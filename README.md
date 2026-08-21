@@ -15,13 +15,7 @@ I enjoy taking an idea through the engineering lifecycle — **collect data → 
 
 My current direction is toward **cloud-native engineering and intelligent data systems**, with hands-on exploration across AWS, Snowflake, Python, AI/ML, APIs and workflow automation.
 
-| Focus | What I work with |
-| :--- | :--- |
-| ☁️ `Cloud` | `AWS`, cloud platforms, deployment & scalable systems |
-| 📊 `Data` | data engineering, `Snowflake`, analytics & pipelines |
-| 🤖 `AI` | Machine Learning, GenAI & Agentic AI exploration |
-| ⚡ `Automation` | `n8n`, APIs, workflow automation & integrations |
-| 🧑‍💻 `Engineering` | `Python`, `Java`, `JavaScript`, `SQL` & backend development |
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3600&pause=700&color=00C6FF&center=true&vCenter=true&width=850&lines=%E2%98%81%EF%B8%8F+Cloud+%7C+AWS+%C2%B7+Deployment+%C2%B7+Scalable+Systems;%F0%9F%93%8A+Data+%7C+Snowflake+%C2%B7+Pipelines+%C2%B7+Analytics;%F0%9F%A4%96+AI+%7C+ML+%C2%B7+GenAI+%C2%B7+Agentic+AI;%E2%9A%A1+Automation+%7C+n8n+%C2%B7+APIs+%C2%B7+Integrations;%F0%9F%A7%91%F0%9F%92%BB+Engineering+%7C+Python+%C2%B7+Java+%C2%B7+JavaScript+%C2%B7+SQL" alt="Animated focus" /></p>
 
 ---
 
@@ -30,17 +24,11 @@ My current direction is toward **cloud-native engineering and intelligent data s
 
 > **Building systems where cloud infrastructure, data and intelligence work together.**
 
-| Building On | What I'm developing |
-| :--- | :--- |
-| ☁️ `Cloud Engineering` | AWS fundamentals, cloud architecture and scalable application thinking |
-| 📊 `Data Engineering` | Data pipelines, Snowflake, transformation and analytics-ready workflows |
-| 🤖 `Intelligent Systems` | ML, Generative AI and Agentic AI concepts |
-| ⚡ `Automation` | n8n, APIs and event/workflow-driven systems |
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4200&pause=600&color=7F5CFF&center=true&vCenter=true&width=850&lines=%E2%98%81%EF%B8%8F+Cloud+Engineering+%7C+AWS+fundamentals+%2B+cloud+architecture+%2B+scalable+application+thinking;%F0%9F%93%8A+Data+Engineering+%7C+Data+pipelines+%2B+Snowflake+%2B+transformation+%2B+analytics-ready+workflows;%F0%9F%A4%96+Intelligent+Systems+%7C+ML+%2B+Generative+AI+%2B+Agentic+AI+concepts;%E2%9A%A1+Automation+%7C+n8n+%2B+APIs+%2B+event%2Fworkflow-driven+systems" alt="Animated building on" /></p>
 
 ---
 
 ## 🛠️ Tech Stack
-
 ### ⭐ Core Focus
 <table align="center"><tr><td align="center" width="130"><img src="assets/aws.svg" width="52" height="52" alt="AWS"/><br/><code>AWS</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python"/><br/><code>Python</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="52" height="52" alt="Snowflake"/><br/><code>Snowflake</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker"/><br/><code>Docker</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="52" height="52" alt="n8n"/><br/><code>n8n</code></td></tr></table>
 
@@ -56,7 +44,6 @@ My current direction is toward **cloud-native engineering and intelligent data s
 ---
 
 ## 🧠 Featured Work
-
 ### 🌱 PrakritiAI — IoT Smart Farming Monitoring System
 An IoT-based smart farming solution focused on collecting, processing and storing **real-time agricultural sensor data**.
 
@@ -83,28 +70,16 @@ Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible
 ---
 
 ## 💼 Experience
-
-| Role | Organization / Context | Focus |
-| :--- | :--- | :--- |
-| `Developer Intern` | InnoBytes-Erfinden | Building and benchmarking platforms; UI/UX, communication and business strategy |
-| `Associate Lead` | AWS Cloud Club, MIT ADTU | Technical documentation, event execution and community activities; `1500+ attendees` |
-| `Liaison Officer` | Bajaj Pune Grand Tour 2026 | Communication and event operations with the `Global Cycling Team – Netherlands` |
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=700&color=FF4ECD&center=true&vCenter=true&width=900&lines=%F0%9F%92%BC+Developer+Intern+%7C+InnoBytes-Erfinden+%7C+Building+and+benchmarking+platforms+%C2%B7+UI%2FUX+%C2%B7+communication+%C2%B7+business+strategy;%E2%98%81%EF%B8%8F+Associate+Lead+%7C+AWS+Cloud+Club%2C+MIT+ADTU+%7C+Technical+documentation+%C2%B7+event+execution+%C2%B7+community+activities+%C2%B7+1500%2B+attendees;%F0%9F%9A%B4+Liaison+Officer+%7C+Bajaj+Pune+Grand+Tour+2026+%7C+Communication+%C2%B7+event+operations+%C2%B7+Global+Cycling+Team+-+Netherlands" alt="Animated experience" /></p>
 
 ---
 
 ## 🏆 Achievements
-
-| Recognition | What it signals |
-| :--- | :--- |
-| 🏆 `Smart India Hackathon 2025` — Internal Evaluation Shortlist | Problem solving & hackathon execution |
-| 🌍 `UNESCO Youth Hackathon` — Presented India | International collaboration & communication |
-| 🥇 `PRISM Sociothon 2025` — Top 10 Finalist | Product thinking & solution building |
-| ☁️ `AWS Certified Cloud Practitioner` | Verified cloud fundamentals |
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3900&pause=650&color=00C6FF&center=true&vCenter=true&width=850&lines=%F0%9F%8F%86+Smart+India+Hackathon+2025+%E2%80%94+Internal+Evaluation+Shortlist+%7C+Problem+solving+%26+hackathon+execution;%F0%9F%8C%8D+UNESCO+Youth+Hackathon+%E2%80%94+Presented+India+%7C+International+collaboration+%26+communication;%F0%9F%A5%87+PRISM+Sociothon+2025+%E2%80%94+Top+10+Finalist+%7C+Product+thinking+%26+solution+building;%E2%98%81%EF%B8%8F+AWS+Certified+Cloud+Practitioner+%7C+Verified+cloud+fundamentals" alt="Animated achievements" /></p>
 
 ---
 
 ## 📜 Certifications
-
 | Certification | Area |
 | :--- | :--- |
 | ☁️ `AWS Certified Cloud Practitioner` | Cloud |
@@ -153,5 +128,4 @@ My work in the AWS community has helped me develop a second side of engineering:
 
 ## 🌐 Let's Connect
 <p align="center"><a href="https://www.linkedin.com/in/deepeshspatil"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:patildeepeshs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/deepeshspatil"><img src="https://img.shields.io/badge/GitHub-deepeshspatil-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-
 <p align="center"><b>Build systems. Understand data. Automate intelligently. Ship with purpose.</b></p>
