@@ -1,33 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F5CFF,100:FF4ECD&height=180&section=header&text=DEEPESH%20PATIL&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Deepesh Patil animated header" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/deepeshspatil">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Cloud+%7C+AI+%7C+Data+Engineering+%7C+Automation;B.Tech+CSE+(AI+%26+Analytics)+%F0%9F%8E%93;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+AI-powered+%26+cloud-native+solutions+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Ship+%E2%9A%A1" alt="Animated introduction" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="assets/aws.svg" width="50" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" />
-</p>
-
+<p align="center"><a href="https://github.com/deepeshspatil"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Cloud+%7C+AI+%7C+Data+Engineering+%7C+Automation;B.Tech+CSE+(AI+%26+Analytics)+%F0%9F%8E%93;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+AI-powered+%26+cloud-native+solutions+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Ship+%E2%9A%A1" alt="Animated introduction" /></a></p>
+<p align="center"><img src="assets/aws.svg" width="50" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" /></p>
 <p align="center"><b>☁️ AWS</b>&nbsp;&nbsp;&nbsp; <b>🤖 AI</b>&nbsp;&nbsp;&nbsp; <b>❄️ Snowflake</b>&nbsp;&nbsp;&nbsp; <b>⚡ n8n</b></p>
-
-<p align="center">
-  <a href="https://github.com/deepeshspatil"><img src="https://komarev.com/ghpvc/?username=deepeshspatil&style=flat-square&color=7F5CFF" alt="Profile views" /></a>
-  <img src="https://img.shields.io/github/followers/deepeshspatil?style=flat-square&color=00C6FF" alt="GitHub followers" />
-</p>
+<p align="center"><a href="https://github.com/deepeshspatil"><img src="https://komarev.com/ghpvc/?username=deepeshspatil&style=flat-square&color=7F5CFF" alt="Profile views" /></a> <img src="https://img.shields.io/github/followers/deepeshspatil?style=flat-square&color=00C6FF" alt="GitHub followers" /></p>
 
 ---
 
 # 👋 Hi, I'm Deepesh Patil
-
 ### `B.Tech CSE (AI & Analytics) | Cloud & AI Enthusiast | Developer | Builder`
-
 I'm a Computer Science undergraduate at **MIT Arts, Design & Technology University**, passionate about building practical solutions using **Cloud, AI, Data Engineering, Backend Development, and Automation**.
 
 I enjoy turning ideas into working products — from IoT and AI-powered applications to cloud-based data pipelines and automation workflows.
@@ -37,98 +19,62 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ## 🚀 About Me
 
 <p align="center">
-  <img src="assets/aws.svg" width="42" height="42" alt="AWS" title="Cloud / AWS" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="42" height="42" alt="Snowflake" title="Data / Snowflake" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42" height="42" alt="TensorFlow" title="AI / Machine Learning" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n" title="Automation / n8n" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker" title="Containers / Docker" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git" title="Development / Git" />
+  <img src="assets/about-me.svg" width="100%" alt="Animated About Me — Deepesh Patil" />
 </p>
-
-<p align="center"><b>☁️ Cloud</b> &nbsp;•&nbsp; <b>🤖 AI</b> &nbsp;•&nbsp; <b>📊 Data</b> &nbsp;•&nbsp; <b>⚙️ Automation</b> &nbsp;•&nbsp; <b>🧑‍💻 Development</b></p>
-
-- 🎓 B.Tech Computer Science & Engineering — **AI & Analytics**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🤖 Exploring **Generative AI, Agentic AI & AI Automation**
-- 📊 Interested in **Data Engineering, Analytics & Cloud Technologies**
-- 🔧 Building with **Python, Java, JavaScript & SQL**
-- ⚡ Working with **n8n, Snowflake, APIs & Cloud Platforms**
-- 🏆 **Smart India Hackathon 2025 — Internal Evaluation Shortlist**
-- 🌍 **Presented India at UNESCO Youth Hackathon**
-- 🏅 **PRISM Sociothon 2025 — Top 10 Finalist**
-- 👥 Associate Lead — Documentation Team, **AWS Cloud Club MIT ADTU**
-
-> 💡 **My mindset:** Learn fast → Build something useful → Automate it → Ship it → Keep improving.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
-<table align="center">
-<tr>
+<table align="center"><tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/><b>Python</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br/><b>Java</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C"/><br/><b>C</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br/><b>C++</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/><b>JavaScript</b></td>
-</tr>
-</table>
+</tr></table>
 
 ### ☁️ Cloud & Data
-<table align="center">
-<tr>
+<table align="center"><tr>
 <td align="center" width="120"><img src="assets/aws.svg" width="50" height="50" alt="AWS"/><br/><b>AWS</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/><br/><b>Google Cloud</b></td>
 <td align="center" width="120"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake"/><br/><b>Snowflake</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br/><b>PostgreSQL</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br/><b>MongoDB</b></td>
-</tr>
-</table>
+</tr></table>
 
 ### 🤖 AI & Automation
-<table align="center">
-<tr>
+<table align="center"><tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/><br/><b>TensorFlow</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/><br/><b>PyTorch</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn"/><br/><b>Scikit-learn</b></td>
 <td align="center" width="120"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n"/><br/><b>n8n</b></td>
-</tr>
-</table>
+</tr></table>
 
 ### 🌐 Backend & APIs
-<table align="center">
-<tr>
+<table align="center"><tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django"/><br/><b>Django</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/><br/><b>Flask</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/><br/><b>Spring Boot</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase"/><br/><b>Firebase</b></td>
-</tr>
-</table>
+</tr></table>
 
 ### 🔧 Tools
-<table align="center">
-<tr>
+<table align="center"><tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/><b>Git</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/><b>GitHub</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/><br/><b>Postman</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br/><b>Docker</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/><br/><b>Terraform</b></td>
-</tr>
-</table>
+</tr></table>
 
 ### 📡 IoT & Messaging
-<table align="center">
-<tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/mqtt/660066" width="50" height="50" alt="MQTT"/><br/><b>MQTT</b></td>
-</tr>
-</table>
+<table align="center"><tr><td align="center" width="120"><img src="https://cdn.simpleicons.org/mqtt/660066" width="50" height="50" alt="MQTT"/><br/><b>MQTT</b></td></tr></table>
 
 ---
 
 ## 💻 Featured Projects
-
 ### 🌱 PrakritiAI — IoT Smart Farming Monitoring System
 An IoT-based smart farming solution focused on collecting, processing and storing real-time agricultural sensor data.
 
@@ -149,7 +95,6 @@ Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible
 ---
 
 ## 💼 Experience
-
 **Developer Intern — InnoBytes-Erfinden**  
 Building and benchmarking platforms while contributing to UI/UX, communication and business strategy.
 
@@ -162,7 +107,6 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ## 🏆 Achievements
-
 🏆 **Smart India Hackathon 2025** — Shortlisted in Internal Evaluation Round
 
 🌍 **UNESCO Youth Hackathon** — Presented India
@@ -174,7 +118,6 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ## 📜 Certifications
-
 * ☁️ AWS Certified Cloud Practitioner
 * 🤖 AWS Academy Graduate — Machine Learning Foundations
 * ☕ Advanced Java — LearnerQuest / Coursera
@@ -183,10 +126,7 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepeshspatil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshspatil&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepeshspatil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshspatil&layout=compact&theme=tokyonight&hide_border=true" height="170"/></p>
 
 ---
 
@@ -196,13 +136,8 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepeshspatil"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Patil-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:patildeepeshs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/deepeshspatil"><img src="https://img.shields.io/badge/GitHub-deepeshspatil-black?style=for-the-badge&logo=github"/></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/deepeshspatil"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Patil-blue?style=for-the-badge&logo=linkedin"/></a> <a href="mailto:patildeepeshs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a> <a href="https://github.com/deepeshspatil"><img src="https://img.shields.io/badge/GitHub-deepeshspatil-black?style=for-the-badge&logo=github"/></a></p>
 
 ---
-
 ### 💡 "Build. Learn. Experiment. Repeat."
 ⭐ Feel free to explore my repositories and connect with me!
