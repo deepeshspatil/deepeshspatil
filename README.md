@@ -6,9 +6,16 @@
   <a href="https://github.com/deepeshspatil">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Cloud+%7C+AI+%7C+Data+Engineering+%7C+Automation;B.Tech+CSE+(AI+%26+Analytics)+%F0%9F%8E%93;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+AI-powered+%26+cloud-native+solutions+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Ship+%E2%9A%A1" alt="Animated introduction" />
   </a>
-
-
 </p>
+
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="50" height="50" alt="AWS" title="AWS" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.snowflake.com/"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" /></a>
+</p>
+
+<p align="center"><b>☁️ AWS</b>&nbsp;&nbsp;&nbsp; <b>🤖 AI</b>&nbsp;&nbsp;&nbsp; <b>❄️ Snowflake</b>&nbsp;&nbsp;&nbsp; <b>⚡ n8n</b></p>
 
 <p align="center">
   <a href="https://github.com/deepeshspatil"><img src="https://komarev.com/ghpvc/?username=deepeshspatil&style=flat-square&color=7F5CFF" alt="Profile views" /></a>
@@ -30,7 +37,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="42" height="42" alt="AWS" title="Cloud / AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="42" height="42" alt="AWS" title="Cloud / AWS" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="42" height="42" alt="Snowflake" title="Data / Snowflake" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42" height="42" alt="TensorFlow" title="AI / Machine Learning" />&nbsp;&nbsp;&nbsp;
@@ -39,9 +46,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
   <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git" title="Development / Git" />
 </p>
 
-<p align="center">
-  <b>☁️ Cloud</b> &nbsp;•&nbsp; <b>🤖 AI</b> &nbsp;•&nbsp; <b>📊 Data</b> &nbsp;•&nbsp; <b>⚙️ Automation</b> &nbsp;•&nbsp; <b>🧑‍💻 Development</b>
-</p>
+<p align="center"><b>☁️ Cloud</b> &nbsp;•&nbsp; <b>🤖 AI</b> &nbsp;•&nbsp; <b>📊 Data</b> &nbsp;•&nbsp; <b>⚙️ Automation</b> &nbsp;•&nbsp; <b>🧑‍💻 Development</b></p>
 
 - 🎓 B.Tech Computer Science & Engineering — **AI & Analytics**
 - ☁️ **AWS Certified Cloud Practitioner**
@@ -61,77 +66,66 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C" title="C" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" title="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br><sub><b>Python</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br><sub><b>Java</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C" /><br><sub><b>C</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" /><br><sub><b>C++</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
 </p>
 
 ### ☁️ Cloud & Data
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" title="Google Cloud" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="50" height="50" alt="AWS" /><br><sub><b>AWS</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" /><br><sub><b>Google Cloud</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" /><br><sub><b>Snowflake</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /><br><sub><b>MongoDB</b></sub>
 </p>
 
 ### 🤖 AI & Automation
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" /><br><sub><b>TensorFlow</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" /><br><sub><b>PyTorch</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" /><br><sub><b>Scikit-learn</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" /><br><sub><b>n8n</b></sub>
 </p>
 
 ### 🌐 Backend & APIs
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django" title="Django" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" title="Flask" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase" title="Firebase" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django" /><br><sub><b>Django</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" /><br><sub><b>Flask</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" /><br><sub><b>Spring Boot</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase" /><br><sub><b>Firebase</b></sub>
 </p>
 
 ### 🔧 Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" title="Postman" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" title="Terraform" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br><sub><b>Git</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /><br><sub><b>GitHub</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /><br><sub><b>Postman</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /><br><sub><b>Docker</b></sub>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" /><br><sub><b>Terraform</b></sub>
 </p>
 
 ### 📡 IoT & Messaging
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/mqtt/660066" width="50" height="50" alt="MQTT" title="MQTT" />
-</p>
+<p align="center"><img src="https://cdn.simpleicons.org/mqtt/660066" width="50" height="50" alt="MQTT" /><br><sub><b>MQTT</b></sub></p>
 
 ---
 
 ## 💻 Featured Projects
 
 ### 🌱 PrakritiAI — IoT Smart Farming Monitoring System
-
 An IoT-based smart farming solution focused on collecting, processing and storing real-time agricultural sensor data.
 
 **Focus:** `IoT` `Backend Development` `Cloud` `Real-Time Data` `Scalable Architecture`
 
 ### ❄️ AI Data Pipeline with Snowflake
-
 Built an end-to-end AI data pipeline using **Snowflake**, focusing on automated data processing, transformation and analytics-ready workflows.
 
 **Focus:** `Snowflake` `Data Engineering` `Automation` `AI Workflows`
 
 ### 🥗 NutriCheck — AI Food Label Analyzer
-
 An AI-powered system that uses **OCR + Machine Learning** to extract nutritional information from food labels and identify potentially misleading claims.
 
 Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible Consumption & Production**.
@@ -175,7 +169,6 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepeshspatil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshspatil&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
@@ -184,15 +177,11 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepeshspatil&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=deepeshspatil&theme=tokyonight&hide_border=true"/></p>
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/deepeshspatil"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Patil-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:patildeepeshs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
@@ -202,5 +191,4 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ### 💡 "Build. Learn. Experiment. Repeat."
-
 ⭐ Feel free to explore my repositories and connect with me!
