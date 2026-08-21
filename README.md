@@ -10,16 +10,32 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Computer Science & Engineering — **AI & Analytics**
-* ☁️ **AWS Certified Cloud Practitioner**
-* 🤖 Exploring **Generative AI, Agentic AI & AI Automation**
-* 📊 Interested in **Data Engineering, Analytics & Cloud Technologies**
-* 🔧 Building with **Python, Java, JavaScript & SQL**
-* ⚡ Working with **n8n, Snowflake, APIs & Cloud Platforms**
-* 🏆 **Smart India Hackathon 2025 — Internal Evaluation Shortlist**
-* 🌍 **Presented India at UNESCO Youth Hackathon**
-* 🏅 **PRISM Sociothon 2025 — Top 10 Finalist**
-* 👥 Associate Lead — Documentation Team, **AWS Cloud Club MIT ADTU**
+<p align="center">
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="42" height="42" alt="AWS" title="Cloud / AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="42" height="42" alt="Snowflake" title="Data / Snowflake" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42" height="42" alt="TensorFlow" title="AI / Machine Learning" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n" title="Automation / n8n" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker" title="Containers / Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git" title="Development / Git" />
+</p>
+
+<p align="center">
+  <b>☁️ Cloud</b> &nbsp;•&nbsp; <b>🤖 AI</b> &nbsp;•&nbsp; <b>📊 Data</b> &nbsp;•&nbsp; <b>⚙️ Automation</b> &nbsp;•&nbsp; <b>🧑‍💻 Development</b>
+</p>
+
+- 🎓 B.Tech Computer Science & Engineering — **AI & Analytics**
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🤖 Exploring **Generative AI, Agentic AI & AI Automation**
+- 📊 Interested in **Data Engineering, Analytics & Cloud Technologies**
+- 🔧 Building with **Python, Java, JavaScript & SQL**
+- ⚡ Working with **n8n, Snowflake, APIs & Cloud Platforms**
+- 🏆 **Smart India Hackathon 2025 — Internal Evaluation Shortlist**
+- 🌍 **Presented India at UNESCO Youth Hackathon**
+- 🏅 **PRISM Sociothon 2025 — Top 10 Finalist**
+- 👥 Associate Lead — Documentation Team, **AWS Cloud Club MIT ADTU**
+
+> 💡 **My mindset:** Learn fast → Build something useful → Automate it → Ship it → Keep improving.
 
 ---
 
