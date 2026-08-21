@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="50" height="50" alt="AWS" title="AWS" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS" title="AWS" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.snowflake.com/"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" /></a>
@@ -37,7 +37,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="42" height="42" alt="AWS" title="Cloud / AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="42" height="42" alt="AWS" title="Cloud / AWS" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="42" height="42" alt="Snowflake" title="Data / Snowflake" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42" height="42" alt="TensorFlow" title="AI / Machine Learning" />&nbsp;&nbsp;&nbsp;
@@ -66,50 +66,64 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br><sub><b>Python</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br><sub><b>Java</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C" /><br><sub><b>C</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" /><br><sub><b>C++</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/><b>Python</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br/><b>Java</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C"/><br/><b>C</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br/><b>C++</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/><b>JavaScript</b></td>
+</tr>
+</table>
 
 ### ☁️ Cloud & Data
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="50" height="50" alt="AWS" /><br><sub><b>AWS</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" /><br><sub><b>Google Cloud</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" /><br><sub><b>Snowflake</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /><br><sub><b>MongoDB</b></sub>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS"/><br/><b>AWS</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/><br/><b>Google Cloud</b></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake"/><br/><b>Snowflake</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br/><b>PostgreSQL</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br/><b>MongoDB</b></td>
+</tr>
+</table>
 
 ### 🤖 AI & Automation
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" /><br><sub><b>TensorFlow</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" /><br><sub><b>PyTorch</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" /><br><sub><b>Scikit-learn</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" /><br><sub><b>n8n</b></sub>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/><br/><b>TensorFlow</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/><br/><b>PyTorch</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn"/><br/><b>Scikit-learn</b></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n"/><br/><b>n8n</b></td>
+</tr>
+</table>
 
 ### 🌐 Backend & APIs
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django" /><br><sub><b>Django</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" /><br><sub><b>Flask</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" /><br><sub><b>Spring Boot</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase" /><br><sub><b>Firebase</b></sub>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django"/><br/><b>Django</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/><br/><b>Flask</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/><br/><b>Spring Boot</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase"/><br/><b>Firebase</b></td>
+</tr>
+</table>
 
 ### 🔧 Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br><sub><b>Git</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /><br><sub><b>GitHub</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /><br><sub><b>Postman</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /><br><sub><b>Docker</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" /><br><sub><b>Terraform</b></sub>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/><b>Git</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/><b>GitHub</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/><br/><b>Postman</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br/><b>Docker</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/><br/><b>Terraform</b></td>
+</tr>
+</table>
 
 ### 📡 IoT & Messaging
-<p align="center"><img src="https://cdn.simpleicons.org/mqtt/660066" width="50" height="50" alt="MQTT" /><br><sub><b>MQTT</b></sub></p>
+<table align="center">
+<tr>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/mqtt/660066" width="50" height="50" alt="MQTT"/><br/><b>MQTT</b></td>
+</tr>
+</table>
 
 ---
 
