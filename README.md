@@ -15,9 +15,9 @@ I enjoy taking an idea through the engineering lifecycle — **collect data → 
 
 My current direction is toward **cloud-native engineering and intelligent data systems**, with hands-on exploration across AWS, Snowflake, Python, AI/ML, APIs and workflow automation.
 
-<table align="center"><tr><td><code>● ● ● &nbsp; about.log — professional profile</code></td><td align="right"><code>STATUS: ACTIVE</code></td></tr><tr><td colspan="2">
+<table align="center" border="1" cellpadding="10" cellspacing="0"><tr><td colspan="2"><code>🔴 🟡 🟢 &nbsp; about.log — professional profile</code></td><td align="right"><img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square" alt="Active"/></td></tr><tr><td colspan="3">
 
-<table align="center"><tr><th>Focus</th><th>What I work with</th></tr><tr><td>☁️ <code>Cloud</code></td><td>AWS, cloud platforms, deployment &amp; scalable systems</td></tr><tr><td>📊 <code>Data</code></td><td>data engineering, Snowflake, analytics &amp; pipelines</td></tr><tr><td>🤖 <code>AI</code></td><td>Machine Learning, GenAI &amp; Agentic AI exploration</td></tr><tr><td>⚡ <code>Automation</code></td><td>n8n, APIs, workflow automation &amp; integrations</td></tr><tr><td>🧑‍💻 <code>Engineering</code></td><td>Python, Java, JavaScript, SQL &amp; backend development</td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><th>Focus</th><th>What I work with</th></tr><tr><td>☁️ <code>Cloud</code></td><td>AWS, cloud platforms, deployment &amp; scalable systems</td></tr><tr><td>📊 <code>Data</code></td><td>data engineering, Snowflake, analytics &amp; pipelines</td></tr><tr><td>🤖 <code>AI</code></td><td>Machine Learning, GenAI &amp; Agentic AI exploration</td></tr><tr><td>⚡ <code>Automation</code></td><td>n8n, APIs, workflow automation &amp; integrations</td></tr><tr><td>🧑‍💻 <code>Engineering</code></td><td>Python, Java, JavaScript, SQL &amp; backend development</td></tr></table>
 
 </td></tr></table>
 
@@ -28,9 +28,9 @@ My current direction is toward **cloud-native engineering and intelligent data s
 
 > **Building systems where cloud infrastructure, data and intelligence work together.**
 
-<table align="center"><tr><td><code>● ● ● &nbsp; building-on.log — engineering roadmap</code></td><td align="right"><code>MODE: BUILDING</code></td></tr><tr><td colspan="2">
+<table align="center" border="1" cellpadding="10" cellspacing="0"><tr><td><code>🔴 🟡 🟢 &nbsp; building-on.log — engineering roadmap</code></td><td align="right"><img src="https://img.shields.io/badge/MODE-BUILDING-00C6FF?style=flat-square" alt="Building"/></td></tr><tr><td colspan="2">
 
-<table align="center"><tr><th>Building On</th><th>What I'm developing</th></tr><tr><td>☁️ <code>Cloud Engineering</code></td><td>AWS fundamentals, cloud architecture and scalable application thinking</td></tr><tr><td>📊 <code>Data Engineering</code></td><td>Data pipelines, Snowflake, transformation and analytics-ready workflows</td></tr><tr><td>🤖 <code>Intelligent Systems</code></td><td>ML, Generative AI and Agentic AI concepts</td></tr><tr><td>⚡ <code>Automation</code></td><td>n8n, APIs and event/workflow-driven systems</td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><th>Building On</th><th>What I'm developing</th></tr><tr><td>☁️ <code>Cloud Engineering</code></td><td>AWS fundamentals, cloud architecture and scalable application thinking</td></tr><tr><td>📊 <code>Data Engineering</code></td><td>Data pipelines, Snowflake, transformation and analytics-ready workflows</td></tr><tr><td>🤖 <code>Intelligent Systems</code></td><td>ML, Generative AI and Agentic AI concepts</td></tr><tr><td>⚡ <code>Automation</code></td><td>n8n, APIs and event/workflow-driven systems</td></tr></table>
 
 </td></tr></table>
 
@@ -38,16 +38,16 @@ My current direction is toward **cloud-native engineering and intelligent data s
 
 ## 🛠️ Tech Stack
 ### ⭐ Core Focus
-<table align="center"><tr><td colspan="5"><code>● ● ● &nbsp; tech-stack.log — core focus</code></td></tr><tr><td align="center" width="130"><img src="assets/aws.svg" width="52" height="52" alt="AWS"/><br/><code>AWS</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python"/><br/><code>Python</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="52" height="52" alt="Snowflake"/><br/><code>Snowflake</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker"/><br/><code>Docker</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="52" height="52" alt="n8n"/><br/><code>n8n</code></td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><td colspan="5"><code>🔴 🟡 🟢 &nbsp; tech-stack.log — core focus</code></td></tr><tr><td align="center" width="130"><img src="assets/aws.svg" width="52" height="52" alt="AWS"/><br/><code>AWS</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python"/><br/><code>Python</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="52" height="52" alt="Snowflake"/><br/><code>Snowflake</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker"/><br/><code>Docker</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="52" height="52" alt="n8n"/><br/><code>n8n</code></td></tr></table>
 
 ### 🤖 AI / ML
-<table align="center"><tr><td colspan="3"><code>● ● ● &nbsp; ai-ml.log — intelligent systems</code></td></tr><tr><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br/><code>TensorFlow</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br/><code>PyTorch</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/><br/><code>Scikit-learn</code></td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><td colspan="3"><code>🔴 🟡 🟢 &nbsp; ai-ml.log — intelligent systems</code></td></tr><tr><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br/><code>TensorFlow</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br/><code>PyTorch</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/><br/><code>Scikit-learn</code></td></tr></table>
 
 ### 💻 Development
-<table align="center"><tr><td colspan="5"><code>● ● ● &nbsp; development.log — programming</code></td></tr><tr><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java"/><br/><code>Java</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript"/><br/><code>JavaScript</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="46" height="46" alt="C"/><br/><code>C</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="46" height="46" alt="C++"/><br/><code>C++</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL"/><br/><code>SQL / PostgreSQL</code></td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><td colspan="5"><code>🔴 🟡 🟢 &nbsp; development.log — programming</code></td></tr><tr><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java"/><br/><code>Java</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript"/><br/><code>JavaScript</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="46" height="46" alt="C"/><br/><code>C</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="46" height="46" alt="C++"/><br/><code>C++</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL"/><br/><code>SQL / PostgreSQL</code></td></tr></table>
 
 ### 🌐 Backend / Cloud / Tools
-<table align="center"><tr><td><code>● ● ● &nbsp; backend-tools.log — supporting stack</code></td></tr><tr><td align="center"><code>Google Cloud</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Django</code> &nbsp; <code>Flask</code> &nbsp; <code>Spring Boot</code> &nbsp; <code>Firebase</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>Postman</code> &nbsp; <code>Terraform</code> &nbsp; <code>MQTT</code></td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><td><code>🔴 🟡 🟢 &nbsp; backend-tools.log — supporting stack</code></td></tr><tr><td align="center"><code>Google Cloud</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Django</code> &nbsp; <code>Flask</code> &nbsp; <code>Spring Boot</code> &nbsp; <code>Firebase</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>Postman</code> &nbsp; <code>Terraform</code> &nbsp; <code>MQTT</code></td></tr></table>
 
 ---
 
@@ -78,27 +78,27 @@ Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible
 ---
 
 ## 💼 Experience
-<table align="center"><tr><td><code>● ● ● &nbsp; career.log — professional journey</code></td><td align="right"><code>STATUS: ACTIVE</code></td></tr><tr><td colspan="2">
+<table align="center" border="1" cellpadding="10" cellspacing="0"><tr><td><code>🔴 🟡 🟢 &nbsp; career.log — professional journey</code></td><td align="right"><img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square" alt="Active"/></td></tr><tr><td colspan="2">
 
-<table align="center"><tr><th>Role</th><th>Organization / Context</th><th>Focus</th></tr><tr><td><code>Developer Intern</code></td><td>InnoBytes-Erfinden</td><td>Building and benchmarking platforms; UI/UX, communication and business strategy</td></tr><tr><td><code>Associate Lead</code></td><td>AWS Cloud Club, MIT ADTU</td><td>Technical documentation, event execution and community activities; <code>1500+ attendees</code></td></tr><tr><td><code>Liaison Officer</code></td><td>Bajaj Pune Grand Tour 2026</td><td>Communication and event operations with the <code>Global Cycling Team – Netherlands</code></td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><th>Role</th><th>Organization / Context</th><th>Focus</th></tr><tr><td><code>Developer Intern</code></td><td>InnoBytes-Erfinden</td><td>Building and benchmarking platforms; UI/UX, communication and business strategy</td></tr><tr><td><code>Associate Lead</code></td><td>AWS Cloud Club, MIT ADTU</td><td>Technical documentation, event execution and community activities; <code>1500+ attendees</code></td></tr><tr><td><code>Liaison Officer</code></td><td>Bajaj Pune Grand Tour 2026</td><td>Communication and event operations with the <code>Global Cycling Team – Netherlands</code></td></tr></table>
 
 </td></tr></table>
 
 ---
 
 ## 🏆 Achievements
-<table align="center"><tr><td><code>● ● ● &nbsp; achievements.log — recognition</code></td><td align="right"><code>VERIFIED</code></td></tr><tr><td colspan="2">
+<table align="center" border="1" cellpadding="10" cellspacing="0"><tr><td><code>🔴 🟡 🟢 &nbsp; achievements.log — recognition</code></td><td align="right"><img src="https://img.shields.io/badge/VERIFIED-22C55E?style=flat-square" alt="Verified"/></td></tr><tr><td colspan="2">
 
-<table align="center"><tr><th>Recognition</th><th>What it signals</th></tr><tr><td>🏆 <code>Smart India Hackathon 2025</code> — Internal Evaluation Shortlist</td><td>Problem solving &amp; hackathon execution</td></tr><tr><td>🌍 <code>UNESCO Youth Hackathon</code> — Presented India</td><td>International collaboration &amp; communication</td></tr><tr><td>🥇 <code>PRISM Sociothon 2025</code> — Top 10 Finalist</td><td>Product thinking &amp; solution building</td></tr><tr><td>☁️ <code>AWS Certified Cloud Practitioner</code></td><td>Verified cloud fundamentals</td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><th>Recognition</th><th>What it signals</th></tr><tr><td>🏆 <code>Smart India Hackathon 2025</code> — Internal Evaluation Shortlist</td><td>Problem solving &amp; hackathon execution</td></tr><tr><td>🌍 <code>UNESCO Youth Hackathon</code> — Presented India</td><td>International collaboration &amp; communication</td></tr><tr><td>🥇 <code>PRISM Sociothon 2025</code> — Top 10 Finalist</td><td>Product thinking &amp; solution building</td></tr><tr><td>☁️ <code>AWS Certified Cloud Practitioner</code></td><td>Verified cloud fundamentals</td></tr></table>
 
 </td></tr></table>
 
 ---
 
 ## 📜 Certifications
-<table align="center"><tr><td><code>● ● ● &nbsp; certifications.log — credentials</code></td><td align="right"><code>STATUS: VERIFIED</code></td></tr><tr><td colspan="2">
+<table align="center" border="1" cellpadding="10" cellspacing="0"><tr><td><code>🔴 🟡 🟢 &nbsp; certifications.log — credentials</code></td><td align="right"><img src="https://img.shields.io/badge/STATUS-VERIFIED-22C55E?style=flat-square" alt="Verified"/></td></tr><tr><td colspan="2">
 
-<table align="center"><tr><th>Certification</th><th>Area</th></tr><tr><td>☁️ <code>AWS Certified Cloud Practitioner</code></td><td>Cloud</td></tr><tr><td>🤖 <code>AWS Academy Graduate — Machine Learning Foundations</code></td><td>Machine Learning</td></tr><tr><td>☕ <code>Advanced Java — LearnerQuest / Coursera</code></td><td>Java / Backend</td></tr><tr><td>📊 <code>GenAI in Data Analytics — Meta</code></td><td>Generative AI / Analytics</td></tr></table>
+<table align="center" border="1" cellpadding="8" cellspacing="0"><tr><th>Certification</th><th>Area</th></tr><tr><td>☁️ <code>AWS Certified Cloud Practitioner</code></td><td>Cloud</td></tr><tr><td>🤖 <code>AWS Academy Graduate — Machine Learning Foundations</code></td><td>Machine Learning</td></tr><tr><td>☕ <code>Advanced Java — LearnerQuest / Coursera</code></td><td>Java / Backend</td></tr><tr><td>📊 <code>GenAI in Data Analytics — Meta</code></td><td>Generative AI / Analytics</td></tr></table>
 
 </td></tr></table>
 
