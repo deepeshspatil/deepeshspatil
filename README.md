@@ -40,7 +40,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" title="Google Cloud" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB" />
 </p>
@@ -51,7 +51,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" width="50" height="50" alt="n8n" title="n8n" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" />
 </p>
 
 ### 🌐 Backend & APIs
@@ -76,7 +76,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ### 📡 IoT & Messaging
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mqtt/mqtt-original.svg" width="50" height="50" alt="MQTT" title="MQTT" />
+  <img src="https://cdn.simpleicons.org/mqtt/660066" width="50" height="50" alt="MQTT" title="MQTT" />
 </p>
 
 ---
