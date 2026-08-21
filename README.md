@@ -22,9 +22,7 @@
 
 ---
 
-# 👋 Hi, I'm Deepesh Patil
-
-### `B.Tech CSE (AI & Analytics) | Cloud & AI Enthusiast | Developer | Builder`
+#  | Cloud & AI Enthusiast | Developer | Builder`
 
 I'm a Computer Science undergraduate at **MIT Arts, Design & Technology University**, passionate about building practical solutions using **Cloud, AI, Data Engineering, Backend Development, and Automation**.
 
