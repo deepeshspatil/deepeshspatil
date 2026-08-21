@@ -1,145 +1,206 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F5CFF,100:FF4ECD&height=180&section=header&text=DEEPESH%20PATIL&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Deepesh Patil animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F5CFF,100:FF4ECD&height=180&section=header&text=DEEPESH%20PATIL&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Deepesh Patil" />
 </p>
 
-<p align="center"><a href="https://github.com/deepeshspatil"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Cloud+%7C+AI+%7C+Data+Engineering+%7C+Automation;B.Tech+CSE+(AI+%26+Analytics)+%F0%9F%8E%93;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+AI-powered+%26+cloud-native+solutions+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Ship+%E2%9A%A1" alt="Animated introduction" /></a></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Cloud+%26+Data+Engineering+%7C+AI+%26+Automation;B.Tech+CSE+(AI+%26+Analytics);AWS+Certified+Cloud+Practitioner;Building+cloud-native+%26+intelligent+systems;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Scale+%E2%86%92+Automate" alt="Introduction" />
+</p>
 
-<p align="center"><img src="assets/aws.svg" width="50" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" /></p>
-<p align="center"><b>☁️ AWS</b>&nbsp;&nbsp;&nbsp; <b>🤖 AI</b>&nbsp;&nbsp;&nbsp; <b>❄️ Snowflake</b>&nbsp;&nbsp;&nbsp; <b>⚡ n8n</b></p>
-<p align="center"><a href="https://github.com/deepeshspatil"><img src="https://komarev.com/ghpvc/?username=deepeshspatil&style=flat-square&color=7F5CFF" alt="Profile views" /></a> <img src="https://img.shields.io/github/followers/deepeshspatil?style=flat-square&color=00C6FF" alt="GitHub followers" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepeshspatil"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:patildeepeshs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/deepeshspatil"><img src="https://img.shields.io/badge/GitHub-deepeshspatil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
----
+<p align="center">
+  <img src="assets/aws.svg" width="44" height="44" alt="AWS" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="44" height="44" alt="Snowflake" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="44" height="44" alt="Docker" />
+</p>
 
-# 👋 Hi, I'm Deepesh Patil
-### `B.Tech CSE (AI & Analytics) | Cloud & AI Enthusiast | Developer | Builder`
-
-I'm a Computer Science undergraduate at **MIT Arts, Design & Technology University**, passionate about building practical solutions using **Cloud, AI, Data Engineering, Backend Development, and Automation**.
-
-I enjoy turning ideas into working products — from IoT and AI-powered applications to cloud-based data pipelines and automation workflows.
-
----
-
-## 🎯 Building On
-<p align="center"><img src="assets/career-focus.svg" width="100%" alt="Career direction — Cloud, Data, AI and Automation" /></p>
-
-My strongest professional direction is toward **cloud-native engineering and intelligent data systems** — combining AWS, data engineering, AI/ML and workflow automation to build scalable, useful products.
+<p align="center"><b>Cloud</b>&nbsp; • &nbsp;<b>Data</b>&nbsp; • &nbsp;<b>AI</b>&nbsp; • &nbsp;<b>Automation</b></p>
 
 ---
 
-## 🚀 About Me
-<p align="center"><img src="assets/about-me.svg" width="100%" alt="Animated About Me — Deepesh Patil" /></p>
+## 👋 About Me
 
-- 🎓 B.Tech Computer Science & Engineering — **AI & Analytics**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🤖 Exploring **Generative AI, Agentic AI & AI Automation**
-- 📊 Interested in **Data Engineering, Analytics & Cloud Technologies**
-- 🔧 Building with **Python, Java, JavaScript & SQL**
-- ⚡ Working with **n8n, Snowflake, APIs & Cloud Platforms**
-- 🏆 **Smart India Hackathon 2025 — Internal Evaluation Shortlist**
-- 🌍 **Presented India at UNESCO Youth Hackathon**
-- 🏅 **PRISM Sociothon 2025 — Top 10 Finalist**
-- 👥 Associate Lead — Documentation Team, **AWS Cloud Club MIT ADTU**
+I'm a **Computer Science undergraduate at MIT Arts, Design & Technology University**, focused on building practical systems at the intersection of **cloud infrastructure, data engineering, AI/ML and automation**.
 
-> 💡 **My mindset:** Learn fast → Build something useful → Automate it → Ship it → Keep improving.
+I enjoy taking an idea through the engineering lifecycle — **collect data → process it → add intelligence → automate workflows → deploy useful systems**.
+
+My current direction is toward **cloud-native engineering and intelligent data systems**, with hands-on exploration across AWS, Snowflake, Python, AI/ML, APIs and workflow automation.
+
+### What I bring
+
+| | Focus |
+|---|---|
+| ☁️ **Cloud** | AWS, cloud platforms, deployment & scalable systems |
+| 📊 **Data** | Data engineering, Snowflake, analytics & pipelines |
+| 🤖 **AI** | Machine Learning, GenAI & Agentic AI exploration |
+| ⚡ **Automation** | n8n, APIs, workflow automation & integrations |
+| 🧑‍💻 **Engineering** | Python, Java, JavaScript, SQL & backend development |
+
+---
+
+## 🧭 Building On
+
+<p align="center">
+  <b>☁️ CLOUD</b>　→　<b>📊 DATA</b>　→　<b>🤖 AI</b>　→　<b>⚡ AUTOMATION</b>
+</p>
+
+> **Building systems where cloud infrastructure, data and intelligence work together.**
+
+| Building On | What I'm developing |
+|---|---|
+| ☁️ **Cloud Engineering** | AWS fundamentals, cloud architecture and scalable application thinking |
+| 📊 **Data Engineering** | Data pipelines, Snowflake, transformation and analytics-ready workflows |
+| 🤖 **Intelligent Systems** | ML, Generative AI and Agentic AI concepts |
+| ⚡ **Automation** | n8n, APIs and event/workflow-driven systems |
+
+---
+
+## 🔭 Currently Building & Learning
+
+- ☁️ **Deepening AWS & cloud engineering** — moving from cloud fundamentals toward stronger architecture and deployment skills.
+- 📊 **Building data workflows** — exploring Snowflake, data processing and analytics-ready pipelines.
+- 🤖 **Exploring AI systems** — Generative AI, Agentic AI and practical ML applications.
+- ⚡ **Automating workflows** — using n8n, APIs and integrations to turn repetitive processes into systems.
+
+---
+
+## 🧠 Featured Work
+
+### 🌱 PrakritiAI — IoT Smart Farming Monitoring System
+An IoT-based smart farming solution focused on collecting, processing and storing **real-time agricultural sensor data**.
+
+`IoT` `Backend Development` `Cloud` `Real-Time Data` `Scalable Architecture`
+
+**Engineering story:** Sensors → data collection → processing → cloud/backend → actionable information.
+
+---
+
+### ❄️ AI Data Pipeline with Snowflake
+An end-to-end AI data pipeline using **Snowflake**, focused on automated data processing, transformation and analytics-ready workflows.
+
+`Snowflake` `Data Engineering` `Automation` `AI Workflows`
+
+**Engineering story:** Data ingestion → transformation → analytics/AI workflow → automation.
+
+---
+
+### 🥗 NutriCheck — AI Food Label Analyzer
+An AI-powered system using **OCR + Machine Learning** to extract nutritional information from food labels and identify potentially misleading claims.
+
+Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible Consumption & Production**.
+
+`OCR` `Machine Learning` `AI` `Data Processing`
+
+**Engineering story:** Image → OCR → structured data → ML analysis → useful insight.
+
+---
+
+## 🏗️ Engineering Focus
+
+```text
+                 ┌──────────────────┐
+                 │   CLOUD SYSTEMS  │
+                 │       AWS        │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │   DATA SYSTEMS   │
+                 │ Snowflake • SQL  │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ INTELLIGENT APPS │
+                 │  AI / ML / GenAI │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │    AUTOMATION    │
+                 │  n8n • APIs      │
+                 └──────────────────┘
+```
+
+**Goal:** become the kind of engineer who can understand a problem end-to-end — from infrastructure and data to intelligence and automation.
+
+---
+
+## 💼 Experience
+
+### Developer Intern — InnoBytes-Erfinden
+Building and benchmarking platforms while contributing to **UI/UX, communication and business strategy**.
+
+### Associate Lead — AWS Cloud Club, MIT ADTU
+Core team member involved in **technical documentation, event execution and community activities**, including events with **1500+ attendees**.
+
+### Liaison Officer — Bajaj Pune Grand Tour 2026
+Coordinated with the **Global Cycling Team – Netherlands**, supporting communication and event operations.
+
+---
+
+## 🏆 Proof of Work
+
+| Recognition | What it signals |
+|---|---|
+| 🏆 **Smart India Hackathon 2025** — Internal Evaluation Shortlist | Problem solving & hackathon execution |
+| 🌍 **UNESCO Youth Hackathon** — Presented India | International collaboration & communication |
+| 🥇 **PRISM Sociothon 2025** — Top 10 Finalist | Product thinking & solution building |
+| ☁️ **AWS Certified Cloud Practitioner** | Verified cloud fundamentals |
+
+---
+
+## 🌐 Beyond Code
+
+### AWS Cloud Club — MIT ADTU
+
+My work in the AWS community has helped me develop a second side of engineering: **communicating technical ideas, documenting systems, coordinating people and helping build technology communities**.
+
+> **Technical depth + communication + ownership** is the combination I want to keep developing.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### ⭐ Core Focus
+<p align="center">
 <table align="center"><tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/><b>Python</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br/><b>Java</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C"/><br/><b>C</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br/><b>C++</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/><b>JavaScript</b></td>
+<td align="center" width="130"><img src="assets/aws.svg" width="52" height="52" alt="AWS"/><br/><b>AWS</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python"/><br/><b>Python</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="52" height="52" alt="Snowflake"/><br/><b>Snowflake</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker"/><br/><b>Docker</b></td>
+<td align="center" width="130"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="52" height="52" alt="n8n"/><br/><b>n8n</b></td>
 </tr></table>
+</p>
 
-### ☁️ Cloud & Data
+### 🤖 AI / ML
+<p align="center">
 <table align="center"><tr>
-<td align="center" width="120"><img src="assets/aws.svg" width="50" height="50" alt="AWS"/><br/><b>AWS</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/><br/><b>Google Cloud</b></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake"/><br/><b>Snowflake</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br/><b>PostgreSQL</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br/><b>MongoDB</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br/><b>TensorFlow</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br/><b>PyTorch</b></td>
+<td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/><br/><b>Scikit-learn</b></td>
 </tr></table>
+</p>
 
-### 🤖 AI & Automation
+### 💻 Development
+<p align="center">
 <table align="center"><tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/><br/><b>TensorFlow</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/><br/><b>PyTorch</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn"/><br/><b>Scikit-learn</b></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n"/><br/><b>n8n</b></td>
+<td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java"/><br/><b>Java</b></td>
+<td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript"/><br/><b>JavaScript</b></td>
+<td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="46" height="46" alt="C"/><br/><b>C</b></td>
+<td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="46" height="46" alt="C++"/><br/><b>C++</b></td>
+<td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL"/><br/><b>SQL / PostgreSQL</b></td>
 </tr></table>
+</p>
 
-### 🌐 Backend & APIs
-<table align="center"><tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django"/><br/><b>Django</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/><br/><b>Flask</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/><br/><b>Spring Boot</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase"/><br/><b>Firebase</b></td>
-</tr></table>
-
-### 🔧 Tools
-<table align="center"><tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/><b>Git</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/><b>GitHub</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/><br/><b>Postman</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br/><b>Docker</b></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/><br/><b>Terraform</b></td>
-</tr></table>
-
-### 📡 IoT & Messaging
-<table align="center"><tr><td align="center" width="120"><img src="https://cdn.simpleicons.org/mqtt/660066" width="50" height="50" alt="MQTT"/><br/><b>MQTT</b></td></tr></table>
-
----
-
-## 🧠 Featured Projects
-<p align="center"><img src="assets/projects.svg" width="100%" alt="Projects — From Sensors to Intelligence" /></p>
-
-### 🌱 PrakritiAI — IoT Smart Farming Monitoring System
-An IoT-based smart farming solution focused on collecting, processing and storing real-time agricultural sensor data.
-
-**Focus:** `IoT` `Backend Development` `Cloud` `Real-Time Data` `Scalable Architecture`
-
-### ❄️ AI Data Pipeline with Snowflake
-Built an end-to-end AI data pipeline using **Snowflake**, focusing on automated data processing, transformation and analytics-ready workflows.
-
-**Focus:** `Snowflake` `Data Engineering` `Automation` `AI Workflows`
-
-### 🥗 NutriCheck — AI Food Label Analyzer
-An AI-powered system that uses **OCR + Machine Learning** to extract nutritional information from food labels and identify potentially misleading claims.
-
-Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible Consumption & Production**.
-
-**Focus:** `OCR` `Machine Learning` `AI` `Data Processing`
-
----
-
-## 💼 Experience
-<p align="center"><img src="assets/experience.svg" width="100%" alt="Experience journey" /></p>
-
-**Developer Intern — InnoBytes-Erfinden**  
-Building and benchmarking platforms while contributing to UI/UX, communication and business strategy.
-
-**Associate Lead — AWS Cloud Club, MIT ADTU**  
-Core team member involved in technical documentation, event execution and community activities, including events with **1500+ attendees**.
-
-**Liaison Officer — Bajaj Pune Grand Tour 2026**  
-Coordinated with the **Global Cycling Team – Netherlands**, supporting communication and event operations.
-
----
-
-## 🏆 Achievements
-<p align="center"><img src="assets/achievements.svg" width="100%" alt="Achievements and recognition" /></p>
-
-🏆 **Smart India Hackathon 2025** — Shortlisted in Internal Evaluation Round
-
-🌍 **UNESCO Youth Hackathon** — Presented India
-
-🥇 **PRISM Sociothon 2025** — Top 10 Finalist
-
-☁️ **AWS Certified Cloud Practitioner**
+### 🌐 Backend / Cloud / Tools
+`Google Cloud` `PostgreSQL` `MongoDB` `Django` `Flask` `Spring Boot` `Firebase` `Git` `GitHub` `Postman` `Terraform` `MQTT`
 
 ---
 
@@ -155,17 +216,25 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ## 📊 GitHub Activity
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepeshspatil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshspatil&layout=compact&theme=tokyonight&hide_border=true" height="170"/></p>
 
-## 🔥 Contribution Streak
-<p align="center"><img src="https://streak-stats.demolab.com?user=deepeshspatil&theme=tokyonight&hide_border=true"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepeshspatil&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshspatil&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+</p>
+
+<p align="center"><i>Code is the output. The architecture, reasoning and learning behind it are the real story.</i></p>
 
 ---
 
 ## 🌐 Let's Connect
-<p align="center"><a href="https://www.linkedin.com/in/deepeshspatil"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Patil-blue?style=for-the-badge&logo=linkedin"/></a> <a href="mailto:patildeepeshs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a> <a href="https://github.com/deepeshspatil"><img src="https://img.shields.io/badge/GitHub-deepeshspatil-black?style=for-the-badge&logo=github"/></a></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepeshspatil"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:patildeepeshs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/deepeshspatil"><img src="https://img.shields.io/badge/GitHub-deepeshspatil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
 <p align="center"><b>Build systems. Understand data. Automate intelligently. Ship with purpose.</b></p>
-<p align="center">⭐ Feel free to explore my repositories and connect with me!</p>
+<p align="center">⭐ Explore the repositories to see the engineering behind the profile.</p>
