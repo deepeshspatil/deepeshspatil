@@ -17,10 +17,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ---
 
 ## 🚀 About Me
-
-<p align="center">
-  <img src="assets/about-me.svg" width="100%" alt="Animated About Me — Deepesh Patil" />
-</p>
+<p align="center"><img src="assets/about-me.svg" width="100%" alt="Animated About Me — Deepesh Patil" /></p>
 
 ---
 
@@ -74,54 +71,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 
 ---
 
-## 💻 Featured Projects
-### 🌱 PrakritiAI — IoT Smart Farming Monitoring System
-An IoT-based smart farming solution focused on collecting, processing and storing real-time agricultural sensor data.
-
-**Focus:** `IoT` `Backend Development` `Cloud` `Real-Time Data` `Scalable Architecture`
-
-### ❄️ AI Data Pipeline with Snowflake
-Built an end-to-end AI data pipeline using **Snowflake**, focusing on automated data processing, transformation and analytics-ready workflows.
-
-**Focus:** `Snowflake` `Data Engineering` `Automation` `AI Workflows`
-
-### 🥗 NutriCheck — AI Food Label Analyzer
-An AI-powered system that uses **OCR + Machine Learning** to extract nutritional information from food labels and identify potentially misleading claims.
-
-Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible Consumption & Production**.
-
-**Focus:** `OCR` `Machine Learning` `AI` `Data Processing`
-
----
-
-## 💼 Experience
-**Developer Intern — InnoBytes-Erfinden**  
-Building and benchmarking platforms while contributing to UI/UX, communication and business strategy.
-
-**Associate Lead — AWS Cloud Club, MIT ADTU**  
-Core team member involved in technical documentation, event execution and community activities, including events with **1500+ attendees**.
-
-**Liaison Officer — Bajaj Pune Grand Tour 2026**  
-Coordinated with the **Global Cycling Team – Netherlands**, supporting communication and event operations.
-
----
-
-## 🏆 Achievements
-🏆 **Smart India Hackathon 2025** — Shortlisted in Internal Evaluation Round
-
-🌍 **UNESCO Youth Hackathon** — Presented India
-
-🥇 **PRISM Sociothon 2025** — Top 10 Finalist
-
-☁️ **AWS Certified Cloud Practitioner**
-
----
-
-## 📜 Certifications
-* ☁️ AWS Certified Cloud Practitioner
-* 🤖 AWS Academy Graduate — Machine Learning Foundations
-* ☕ Advanced Java — LearnerQuest / Coursera
-* 📊 GenAI in Data Analytics — Meta
+<p align="center"><img src="assets/profile-sections.svg" width="100%" alt="Animated Projects, Experience, Achievements and Certifications" /></p>
 
 ---
 
