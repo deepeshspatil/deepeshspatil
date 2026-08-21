@@ -15,7 +15,7 @@ I enjoy taking an idea through the engineering lifecycle — **collect data → 
 
 My current direction is toward **cloud-native engineering and intelligent data systems**, with hands-on exploration across AWS, Snowflake, Python, AI/ML, APIs and workflow automation.
 
-<p align="center"><img src="assets/about-table.svg" width="900" alt="About Me animated table" /></p>
+<table align="center"><tr><th>Focus</th><th>What I work with</th></tr><tr><td>☁️ <code>Cloud</code></td><td>AWS, cloud platforms, deployment &amp; scalable systems</td></tr><tr><td>📊 <code>Data</code></td><td>data engineering, Snowflake, analytics &amp; pipelines</td></tr><tr><td>🤖 <code>AI</code></td><td>Machine Learning, GenAI &amp; Agentic AI exploration</td></tr><tr><td>⚡ <code>Automation</code></td><td>n8n, APIs, workflow automation &amp; integrations</td></tr><tr><td>🧑‍💻 <code>Engineering</code></td><td>Python, Java, JavaScript, SQL &amp; backend development</td></tr></table>
 
 ---
 
@@ -24,7 +24,7 @@ My current direction is toward **cloud-native engineering and intelligent data s
 
 > **Building systems where cloud infrastructure, data and intelligence work together.**
 
-<p align="center"><img src="assets/building-table.svg" width="900" alt="Building On animated table" /></p>
+<table align="center"><tr><th>Building On</th><th>What I'm developing</th></tr><tr><td>☁️ <code>Cloud Engineering</code></td><td>AWS fundamentals, cloud architecture and scalable application thinking</td></tr><tr><td>📊 <code>Data Engineering</code></td><td>Data pipelines, Snowflake, transformation and analytics-ready workflows</td></tr><tr><td>🤖 <code>Intelligent Systems</code></td><td>ML, Generative AI and Agentic AI concepts</td></tr><tr><td>⚡ <code>Automation</code></td><td>n8n, APIs and event/workflow-driven systems</td></tr></table>
 
 ---
 
@@ -70,17 +70,17 @@ Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible
 ---
 
 ## 💼 Experience
-<p align="center"><img src="assets/experience-table.svg" width="1000" alt="Experience animated table" /></p>
+<table align="center"><tr><th>Role</th><th>Organization / Context</th><th>Focus</th></tr><tr><td><code>Developer Intern</code></td><td>InnoBytes-Erfinden</td><td>Building and benchmarking platforms; UI/UX, communication and business strategy</td></tr><tr><td><code>Associate Lead</code></td><td>AWS Cloud Club, MIT ADTU</td><td>Technical documentation, event execution and community activities; <code>1500+ attendees</code></td></tr><tr><td><code>Liaison Officer</code></td><td>Bajaj Pune Grand Tour 2026</td><td>Communication and event operations with the <code>Global Cycling Team – Netherlands</code></td></tr></table>
 
 ---
 
 ## 🏆 Achievements
-<p align="center"><img src="assets/achievements-table.svg" width="950" alt="Achievements animated table" /></p>
+<table align="center"><tr><th>Recognition</th><th>What it signals</th></tr><tr><td>🏆 <code>Smart India Hackathon 2025</code> — Internal Evaluation Shortlist</td><td>Problem solving &amp; hackathon execution</td></tr><tr><td>🌍 <code>UNESCO Youth Hackathon</code> — Presented India</td><td>International collaboration &amp; communication</td></tr><tr><td>🥇 <code>PRISM Sociothon 2025</code> — Top 10 Finalist</td><td>Product thinking &amp; solution building</td></tr><tr><td>☁️ <code>AWS Certified Cloud Practitioner</code></td><td>Verified cloud fundamentals</td></tr></table>
 
 ---
 
 ## 📜 Certifications
-<p align="center"><img src="assets/certifications-table.svg" width="950" alt="Certifications animated table" /></p>
+<table align="center"><tr><th>Certification</th><th>Area</th></tr><tr><td>☁️ <code>AWS Certified Cloud Practitioner</code></td><td>Cloud</td></tr><tr><td>🤖 <code>AWS Academy Graduate — Machine Learning Foundations</code></td><td>Machine Learning</td></tr><tr><td>☕ <code>Advanced Java — LearnerQuest / Coursera</code></td><td>Java / Backend</td></tr><tr><td>📊 <code>GenAI in Data Analytics — Meta</code></td><td>Generative AI / Analytics</td></tr></table>
 
 ---
 
