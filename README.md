@@ -6,21 +6,8 @@
   <a href="https://github.com/deepeshspatil">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Cloud+%7C+AI+%7C+Data+Engineering+%7C+Automation;B.Tech+CSE+(AI+%26+Analytics)+%F0%9F%8E%93;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+AI-powered+%26+cloud-native+solutions+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Ship+%E2%9A%A1" alt="Animated introduction" />
   </a>
-</p>
 
-<p align="center">
-  <a href="https://aws.amazon.com/">
-    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS" title="AWS" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com/">
-    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.snowflake.com/">
-    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://n8n.io/">
-    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" />
-  </a>
+
 </p>
 
 <p align="center">
