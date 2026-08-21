@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
+  <title id="title">About Deepesh Patil</title>
+  <desc id="desc">Animated highlights about Deepesh Patil's education, cloud, AI, data engineering and automation interests.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" x2="1">
+      <stop offset="0" stop-color="#00C6FF"/>
+      <stop offset="0.5" stop-color="#7F5CFF"/>
+      <stop offset="1" stop-color="#FF4ECD"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="756" height="426" rx="22" fill="#0d1117" stroke="url(#border)" stroke-width="2"/>
+  <text x="34" y="44" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" font-weight="700">A little about me</text>
+  <text x="34" y="69" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">Cloud • AI • Data • Automation • Development</text>
+
+  <g font-family="Arial, sans-serif" font-size="15" fill="#f0f6fc">
+    <rect x="24" y="88" width="712" height="40" rx="12" fill="#161b22"/>
+    <circle cx="46" cy="108" r="10" fill="#00C6FF"/><text x="42" y="113" fill="#0d1117" font-size="12" font-weight="700">1</text>
+    <text x="68" y="114">B.Tech CSE — AI &amp; Analytics</text>
+    <rect x="24" y="138" width="712" height="40" rx="12" fill="#161b22"/>
+    <circle cx="46" cy="158" r="10" fill="#FF9900"/><text x="42" y="163" fill="#0d1117" font-size="12" font-weight="700">2</text>
+    <text x="68" y="164">AWS Certified Cloud Practitioner</text>
+    <rect x="24" y="188" width="712" height="40" rx="12" fill="#161b22"/>
+    <circle cx="46" cy="208" r="10" fill="#7F5CFF"/><text x="42" y="213" fill="#ffffff" font-size="12" font-weight="700">3</text>
+    <text x="68" y="214">Exploring Generative AI, Agentic AI &amp; AI Automation</text>
+    <rect x="24" y="238" width="712" height="40" rx="12" fill="#161b22"/>
+    <circle cx="46" cy="258" r="10" fill="#29B5E8"/><text x="42" y="263" fill="#0d1117" font-size="12" font-weight="700">4</text>
+    <text x="68" y="264">Interested in Data Engineering, Analytics &amp; Cloud</text>
+    <rect x="24" y="288" width="712" height="40" rx="12" fill="#161b22"/>
+    <circle cx="46" cy="308" r="10" fill="#3776AB"/><text x="42" y="313" fill="#ffffff" font-size="12" font-weight="700">5</text>
+    <text x="68" y="314">Building with Python, Java, JavaScript &amp; SQL</text>
+    <rect x="24" y="338" width="712" height="40" rx="12" fill="#161b22"/>
+    <circle cx="46" cy="358" r="10" fill="#EA4B71"/><text x="42" y="363" fill="#ffffff" font-size="12" font-weight="700">6</text>
+    <text x="68" y="364">Working with n8n, Snowflake, APIs &amp; Cloud Platforms</text>
+    <rect x="24" y="388" width="712" height="22" rx="11" fill="#161b22"/>
+    <text x="380" y="404" text-anchor="middle" fill="#8b949e" font-size="12">Learn → Build → Automate → Ship → Improve</text>
+  </g>
+
+  <g fill="none" stroke="url(#border)" stroke-width="2">
+    <rect x="24" y="88" width="712" height="40" rx="12" opacity="0.25">
+      <animate attributeName="opacity" values="0.18;0.65;0.18" dur="3.6s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="138" width="712" height="40" rx="12" opacity="0.25">
+      <animate attributeName="opacity" values="0.18;0.65;0.18" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="188" width="712" height="40" rx="12" opacity="0.25">
+      <animate attributeName="opacity" values="0.18;0.65;0.18" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="238" width="712" height="40" rx="12" opacity="0.25">
+      <animate attributeName="opacity" values="0.18;0.65;0.18" dur="3.6s" begin="1.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="288" width="712" height="40" rx="12" opacity="0.25">
+      <animate attributeName="opacity" values="0.18;0.65;0.18" dur="3.6s" begin="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="338" width="712" height="40" rx="12" opacity="0.25">
+      <animate attributeName="opacity" values="0.18;0.65;0.18" dur="3.6s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
