@@ -54,7 +54,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ### ☁️ Cloud & Data
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" title="Google Cloud" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
