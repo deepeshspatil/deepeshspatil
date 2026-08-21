@@ -15,34 +15,40 @@ I enjoy taking an idea through the engineering lifecycle — **collect data → 
 
 My current direction is toward **cloud-native engineering and intelligent data systems**, with hands-on exploration across AWS, Snowflake, Python, AI/ML, APIs and workflow automation.
 
-<p align="center"><img src="assets/about-focus.svg" width="100%" alt="Animated About Me focus cards" /></p>
+| Focus | What I work with |
+| :--- | :--- |
+| ☁️ `Cloud` | `AWS`, cloud platforms, deployment & scalable systems |
+| 📊 `Data` | data engineering, `Snowflake`, analytics & pipelines |
+| 🤖 `AI` | Machine Learning, GenAI & Agentic AI exploration |
+| ⚡ `Automation` | `n8n`, APIs, workflow automation & integrations |
+| 🧑‍💻 `Engineering` | `Python`, `Java`, `JavaScript`, `SQL` & backend development |
 
 ---
 
 ## 🧭 Building On
 <p align="center"><b>☁️ CLOUD</b> → <b>📊 DATA</b> → <b>🤖 AI</b> → <b>⚡ AUTOMATION</b></p>
+
 > **Building systems where cloud infrastructure, data and intelligence work together.**
 
-<p align="center"><img src="assets/profile-tables.svg#building-on" width="100%" alt="Animated Building On cards" /></p>
-
 | Building On | What I'm developing |
-|---|---|
-| ☁️ **Cloud Engineering** | AWS fundamentals, cloud architecture and scalable application thinking |
-| 📊 **Data Engineering** | Data pipelines, Snowflake, transformation and analytics-ready workflows |
-| 🤖 **Intelligent Systems** | ML, Generative AI and Agentic AI concepts |
-| ⚡ **Automation** | n8n, APIs and event/workflow-driven systems |
+| :--- | :--- |
+| ☁️ `Cloud Engineering` | AWS fundamentals, cloud architecture and scalable application thinking |
+| 📊 `Data Engineering` | Data pipelines, Snowflake, transformation and analytics-ready workflows |
+| 🤖 `Intelligent Systems` | ML, Generative AI and Agentic AI concepts |
+| ⚡ `Automation` | n8n, APIs and event/workflow-driven systems |
 
 ---
 
 ## 🛠️ Tech Stack
+
 ### ⭐ Core Focus
-<table align="center"><tr><td align="center" width="130"><img src="assets/aws.svg" width="52" height="52" alt="AWS"/><br/><b>AWS</b></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python"/><br/><b>Python</b></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="52" height="52" alt="Snowflake"/><br/><b>Snowflake</b></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker"/><br/><b>Docker</b></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="52" height="52" alt="n8n"/><br/><b>n8n</b></td></tr></table>
+<table align="center"><tr><td align="center" width="130"><img src="assets/aws.svg" width="52" height="52" alt="AWS"/><br/><code>AWS</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python"/><br/><code>Python</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="52" height="52" alt="Snowflake"/><br/><code>Snowflake</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker"/><br/><code>Docker</code></td><td align="center" width="130"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="52" height="52" alt="n8n"/><br/><code>n8n</code></td></tr></table>
 
 ### 🤖 AI / ML
-<table align="center"><tr><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br/><b>TensorFlow</b></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br/><b>PyTorch</b></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/><br/><b>Scikit-learn</b></td></tr></table>
+<table align="center"><tr><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/><br/><code>TensorFlow</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/><br/><code>PyTorch</code></td><td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/><br/><code>Scikit-learn</code></td></tr></table>
 
 ### 💻 Development
-<table align="center"><tr><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java"/><br/><b>Java</b></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript"/><br/><b>JavaScript</b></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="46" height="46" alt="C"/><br/><b>C</b></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="46" height="46" alt="C++"/><br/><b>C++</b></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL"/><br/><b>SQL / PostgreSQL</b></td></tr></table>
+<table align="center"><tr><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java"/><br/><code>Java</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript"/><br/><code>JavaScript</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="46" height="46" alt="C"/><br/><code>C</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="46" height="46" alt="C++"/><br/><code>C++</code></td><td align="center" width="115"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL"/><br/><code>SQL / PostgreSQL</code></td></tr></table>
 
 ### 🌐 Backend / Cloud / Tools
 `Google Cloud` `PostgreSQL` `MongoDB` `Django` `Flask` `Spring Boot` `Firebase` `Git` `GitHub` `Postman` `Terraform` `MQTT`
@@ -50,6 +56,7 @@ My current direction is toward **cloud-native engineering and intelligent data s
 ---
 
 ## 🧠 Featured Work
+
 ### 🌱 PrakritiAI — IoT Smart Farming Monitoring System
 An IoT-based smart farming solution focused on collecting, processing and storing **real-time agricultural sensor data**.
 
@@ -76,24 +83,34 @@ Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible
 ---
 
 ## 💼 Experience
-### Developer Intern — InnoBytes-Erfinden
-Building and benchmarking platforms while contributing to **UI/UX, communication and business strategy**.
 
-### Associate Lead — AWS Cloud Club, MIT ADTU
-Core team member involved in **technical documentation, event execution and community activities**, including events with **1500+ attendees**.
-
-### Liaison Officer — Bajaj Pune Grand Tour 2026
-Coordinated with the **Global Cycling Team – Netherlands**, supporting communication and event operations.
+| Role | Organization / Context | Focus |
+| :--- | :--- | :--- |
+| `Developer Intern` | InnoBytes-Erfinden | Building and benchmarking platforms; UI/UX, communication and business strategy |
+| `Associate Lead` | AWS Cloud Club, MIT ADTU | Technical documentation, event execution and community activities; `1500+ attendees` |
+| `Liaison Officer` | Bajaj Pune Grand Tour 2026 | Communication and event operations with the `Global Cycling Team – Netherlands` |
 
 ---
 
 ## 🏆 Achievements
-<p align="center"><img src="assets/profile-tables.svg#achievements" width="100%" alt="Animated achievements cards" /></p>
+
+| Recognition | What it signals |
+| :--- | :--- |
+| 🏆 `Smart India Hackathon 2025` — Internal Evaluation Shortlist | Problem solving & hackathon execution |
+| 🌍 `UNESCO Youth Hackathon` — Presented India | International collaboration & communication |
+| 🥇 `PRISM Sociothon 2025` — Top 10 Finalist | Product thinking & solution building |
+| ☁️ `AWS Certified Cloud Practitioner` | Verified cloud fundamentals |
 
 ---
 
 ## 📜 Certifications
-<p align="center"><img src="assets/profile-tables.svg#certifications" width="100%" alt="Animated certification cards" /></p>
+
+| Certification | Area |
+| :--- | :--- |
+| ☁️ `AWS Certified Cloud Practitioner` | Cloud |
+| 🤖 `AWS Academy Graduate — Machine Learning Foundations` | Machine Learning |
+| ☕ `Advanced Java — LearnerQuest / Coursera` | Java / Backend |
+| 📊 `GenAI in Data Analytics — Meta` | Generative AI / Analytics |
 
 ---
 
@@ -115,6 +132,7 @@ INTELLIGENT APPS (AI • ML • GenAI)
         ↓
 AUTOMATION (n8n • APIs)
 ```
+
 **Goal:** become the kind of engineer who can understand a problem end-to-end — from infrastructure and data to intelligence and automation.
 
 ---
