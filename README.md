@@ -15,19 +15,15 @@ I enjoy taking an idea through the engineering lifecycle — **collect data → 
 
 My current direction is toward **cloud-native engineering and intelligent data systems**, with hands-on exploration across AWS, Snowflake, Python, AI/ML, APIs and workflow automation.
 
-| | Focus |
-|---|---|
-| ☁️ **Cloud** | AWS, cloud platforms, deployment & scalable systems |
-| 📊 **Data** | Data engineering, Snowflake, analytics & pipelines |
-| 🤖 **AI** | Machine Learning, GenAI & Agentic AI exploration |
-| ⚡ **Automation** | n8n, APIs, workflow automation & integrations |
-| 🧑‍💻 **Engineering** | Python, Java, JavaScript, SQL & backend development |
+<p align="center"><img src="assets/about-focus.svg" width="100%" alt="Animated About Me focus cards" /></p>
 
 ---
 
 ## 🧭 Building On
 <p align="center"><b>☁️ CLOUD</b> → <b>📊 DATA</b> → <b>🤖 AI</b> → <b>⚡ AUTOMATION</b></p>
 > **Building systems where cloud infrastructure, data and intelligence work together.**
+
+<p align="center"><img src="assets/profile-tables.svg#building-on" width="100%" alt="Animated Building On cards" /></p>
 
 | Building On | What I'm developing |
 |---|---|
@@ -92,22 +88,12 @@ Coordinated with the **Global Cycling Team – Netherlands**, supporting communi
 ---
 
 ## 🏆 Achievements
-| Recognition | What it signals |
-|---|---|
-| 🏆 **Smart India Hackathon 2025** — Internal Evaluation Shortlist | Problem solving & hackathon execution |
-| 🌍 **UNESCO Youth Hackathon** — Presented India | International collaboration & communication |
-| 🥇 **PRISM Sociothon 2025** — Top 10 Finalist | Product thinking & solution building |
-| ☁️ **AWS Certified Cloud Practitioner** | Verified cloud fundamentals |
+<p align="center"><img src="assets/profile-tables.svg#achievements" width="100%" alt="Animated achievements cards" /></p>
 
 ---
 
 ## 📜 Certifications
-| Certification | Area |
-|---|---|
-| ☁️ **AWS Certified Cloud Practitioner** | Cloud |
-| 🤖 **AWS Academy Graduate — Machine Learning Foundations** | Machine Learning |
-| ☕ **Advanced Java — LearnerQuest / Coursera** | Java / Backend |
-| 📊 **GenAI in Data Analytics — Meta** | Generative AI / Analytics |
+<p align="center"><img src="assets/profile-tables.svg#certifications" width="100%" alt="Animated certification cards" /></p>
 
 ---
 
