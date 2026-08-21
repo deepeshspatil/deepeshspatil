@@ -8,13 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS" title="AWS" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.snowflake.com/"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" /></a>
-</p>
-
 <p align="center"><b>☁️ AWS</b>&nbsp;&nbsp;&nbsp; <b>🤖 AI</b>&nbsp;&nbsp;&nbsp; <b>❄️ Snowflake</b>&nbsp;&nbsp;&nbsp; <b>⚡ n8n</b></p>
 
 <p align="center">
