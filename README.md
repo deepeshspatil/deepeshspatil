@@ -8,6 +8,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/aws.svg" width="50" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" />
+</p>
+
 <p align="center"><b>☁️ AWS</b>&nbsp;&nbsp;&nbsp; <b>🤖 AI</b>&nbsp;&nbsp;&nbsp; <b>❄️ Snowflake</b>&nbsp;&nbsp;&nbsp; <b>⚡ n8n</b></p>
 
 <p align="center">
@@ -30,7 +37,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="42" height="42" alt="AWS" title="Cloud / AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="assets/aws.svg" width="42" height="42" alt="AWS" title="Cloud / AWS" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="42" height="42" alt="Snowflake" title="Data / Snowflake" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42" height="42" alt="TensorFlow" title="AI / Machine Learning" />&nbsp;&nbsp;&nbsp;
@@ -72,7 +79,7 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 ### ☁️ Cloud & Data
 <table align="center">
 <tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS"/><br/><b>AWS</b></td>
+<td align="center" width="120"><img src="assets/aws.svg" width="50" height="50" alt="AWS"/><br/><b>AWS</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/><br/><b>Google Cloud</b></td>
 <td align="center" width="120"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake"/><br/><b>Snowflake</b></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br/><b>PostgreSQL</b></td>
