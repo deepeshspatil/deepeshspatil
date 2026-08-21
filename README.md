@@ -9,10 +9,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/AI-Agentic%20AI-7F5CFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Data-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <a href="https://aws.amazon.com/">
+    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS" title="AWS" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.snowflake.com/">
+    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://n8n.io/">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" />
+  </a>
 </p>
 
 <p align="center">
