@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F5CFF,100:FF4ECD&height=180&section=header&text=DEEPESH%20PATIL&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Deepesh Patil animated header" />
 </p>
+
 <p align="center"><a href="https://github.com/deepeshspatil"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Cloud+%7C+AI+%7C+Data+Engineering+%7C+Automation;B.Tech+CSE+(AI+%26+Analytics)+%F0%9F%8E%93;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+AI-powered+%26+cloud-native+solutions+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Ship+%E2%9A%A1" alt="Animated introduction" /></a></p>
+
 <p align="center"><img src="assets/aws.svg" width="50" height="50" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="50" height="50" alt="AI" title="AI" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50" height="50" alt="Snowflake" title="Snowflake" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n" /></p>
 <p align="center"><b>☁️ AWS</b>&nbsp;&nbsp;&nbsp; <b>🤖 AI</b>&nbsp;&nbsp;&nbsp; <b>❄️ Snowflake</b>&nbsp;&nbsp;&nbsp; <b>⚡ n8n</b></p>
 <p align="center"><a href="https://github.com/deepeshspatil"><img src="https://komarev.com/ghpvc/?username=deepeshspatil&style=flat-square&color=7F5CFF" alt="Profile views" /></a> <img src="https://img.shields.io/github/followers/deepeshspatil?style=flat-square&color=00C6FF" alt="GitHub followers" /></p>
@@ -10,14 +12,35 @@
 
 # 👋 Hi, I'm Deepesh Patil
 ### `B.Tech CSE (AI & Analytics) | Cloud & AI Enthusiast | Developer | Builder`
+
 I'm a Computer Science undergraduate at **MIT Arts, Design & Technology University**, passionate about building practical solutions using **Cloud, AI, Data Engineering, Backend Development, and Automation**.
 
 I enjoy turning ideas into working products — from IoT and AI-powered applications to cloud-based data pipelines and automation workflows.
 
 ---
 
+## 🎯 Career Direction
+<p align="center"><img src="assets/career-focus.svg" width="100%" alt="Career direction — Cloud, Data, AI and Automation" /></p>
+
+My strongest professional direction is toward **cloud-native engineering and intelligent data systems** — combining AWS, data engineering, AI/ML and workflow automation to build scalable, useful products.
+
+---
+
 ## 🚀 About Me
 <p align="center"><img src="assets/about-me.svg" width="100%" alt="Animated About Me — Deepesh Patil" /></p>
+
+- 🎓 B.Tech Computer Science & Engineering — **AI & Analytics**
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🤖 Exploring **Generative AI, Agentic AI & AI Automation**
+- 📊 Interested in **Data Engineering, Analytics & Cloud Technologies**
+- 🔧 Building with **Python, Java, JavaScript & SQL**
+- ⚡ Working with **n8n, Snowflake, APIs & Cloud Platforms**
+- 🏆 **Smart India Hackathon 2025 — Internal Evaluation Shortlist**
+- 🌍 **Presented India at UNESCO Youth Hackathon**
+- 🏅 **PRISM Sociothon 2025 — Top 10 Finalist**
+- 👥 Associate Lead — Documentation Team, **AWS Cloud Club MIT ADTU**
+
+> 💡 **My mindset:** Learn fast → Build something useful → Automate it → Ship it → Keep improving.
 
 ---
 
@@ -71,23 +94,78 @@ I enjoy turning ideas into working products — from IoT and AI-powered applicat
 
 ---
 
-<p align="center"><img src="assets/profile-sections.svg" width="100%" alt="Animated Projects, Experience, Achievements and Certifications" /></p>
+## 🧠 Featured Projects
+<p align="center"><img src="assets/projects.svg" width="100%" alt="Projects — From Sensors to Intelligence" /></p>
+
+### 🌱 PrakritiAI — IoT Smart Farming Monitoring System
+An IoT-based smart farming solution focused on collecting, processing and storing real-time agricultural sensor data.
+
+**Focus:** `IoT` `Backend Development` `Cloud` `Real-Time Data` `Scalable Architecture`
+
+### ❄️ AI Data Pipeline with Snowflake
+Built an end-to-end AI data pipeline using **Snowflake**, focusing on automated data processing, transformation and analytics-ready workflows.
+
+**Focus:** `Snowflake` `Data Engineering` `Automation` `AI Workflows`
+
+### 🥗 NutriCheck — AI Food Label Analyzer
+An AI-powered system that uses **OCR + Machine Learning** to extract nutritional information from food labels and identify potentially misleading claims.
+
+Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible Consumption & Production**.
+
+**Focus:** `OCR` `Machine Learning` `AI` `Data Processing`
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
+<p align="center"><img src="assets/experience.svg" width="100%" alt="Experience journey" /></p>
+
+**Developer Intern — InnoBytes-Erfinden**  
+Building and benchmarking platforms while contributing to UI/UX, communication and business strategy.
+
+**Associate Lead — AWS Cloud Club, MIT ADTU**  
+Core team member involved in technical documentation, event execution and community activities, including events with **1500+ attendees**.
+
+**Liaison Officer — Bajaj Pune Grand Tour 2026**  
+Coordinated with the **Global Cycling Team – Netherlands**, supporting communication and event operations.
+
+---
+
+## 🏆 Achievements
+<p align="center"><img src="assets/achievements.svg" width="100%" alt="Achievements and recognition" /></p>
+
+🏆 **Smart India Hackathon 2025** — Shortlisted in Internal Evaluation Round
+
+🌍 **UNESCO Youth Hackathon** — Presented India
+
+🥇 **PRISM Sociothon 2025** — Top 10 Finalist
+
+☁️ **AWS Certified Cloud Practitioner**
+
+---
+
+## 📜 Certifications
+
+| Certification | Area |
+|---|---|
+| ☁️ **AWS Certified Cloud Practitioner** | Cloud |
+| 🤖 **AWS Academy Graduate — Machine Learning Foundations** | Machine Learning |
+| ☕ **Advanced Java — LearnerQuest / Coursera** | Java / Backend |
+| 📊 **GenAI in Data Analytics — Meta** | Generative AI / Analytics |
+
+---
+
+## 📊 GitHub Activity
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepeshspatil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshspatil&layout=compact&theme=tokyonight&hide_border=true" height="170"/></p>
-
----
 
 ## 🔥 Contribution Streak
 <p align="center"><img src="https://streak-stats.demolab.com?user=deepeshspatil&theme=tokyonight&hide_border=true"/></p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 <p align="center"><a href="https://www.linkedin.com/in/deepeshspatil"><img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Patil-blue?style=for-the-badge&logo=linkedin"/></a> <a href="mailto:patildeepeshs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a> <a href="https://github.com/deepeshspatil"><img src="https://img.shields.io/badge/GitHub-deepeshspatil-black?style=for-the-badge&logo=github"/></a></p>
 
 ---
-### 💡 "Build. Learn. Experiment. Repeat."
-⭐ Feel free to explore my repositories and connect with me!
+
+<p align="center"><b>Build systems. Understand data. Automate intelligently. Ship with purpose.</b></p>
+<p align="center">⭐ Feel free to explore my repositories and connect with me!</p>
