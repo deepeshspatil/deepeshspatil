@@ -15,7 +15,7 @@ I enjoy taking an idea through the engineering lifecycle — **collect data → 
 
 My current direction is toward **cloud-native engineering and intelligent data systems**, with hands-on exploration across AWS, Snowflake, Python, AI/ML, APIs and workflow automation.
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3600&pause=700&color=00C6FF&center=true&vCenter=true&width=850&lines=%E2%98%81%EF%B8%8F+Cloud+%7C+AWS+%C2%B7+Deployment+%C2%B7+Scalable+Systems;%F0%9F%93%8A+Data+%7C+Snowflake+%C2%B7+Pipelines+%C2%B7+Analytics;%F0%9F%A4%96+AI+%7C+ML+%C2%B7+GenAI+%C2%B7+Agentic+AI;%E2%9A%A1+Automation+%7C+n8n+%C2%B7+APIs+%C2%B7+Integrations;%F0%9F%A7%91%F0%9F%92%BB+Engineering+%7C+Python+%C2%B7+Java+%C2%B7+JavaScript+%C2%B7+SQL" alt="Animated focus" /></p>
+<p align="center"><img src="assets/about-table.svg" width="900" alt="About Me animated table" /></p>
 
 ---
 
@@ -24,7 +24,7 @@ My current direction is toward **cloud-native engineering and intelligent data s
 
 > **Building systems where cloud infrastructure, data and intelligence work together.**
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4200&pause=600&color=7F5CFF&center=true&vCenter=true&width=850&lines=%E2%98%81%EF%B8%8F+Cloud+Engineering+%7C+AWS+fundamentals+%2B+cloud+architecture+%2B+scalable+application+thinking;%F0%9F%93%8A+Data+Engineering+%7C+Data+pipelines+%2B+Snowflake+%2B+transformation+%2B+analytics-ready+workflows;%F0%9F%A4%96+Intelligent+Systems+%7C+ML+%2B+Generative+AI+%2B+Agentic+AI+concepts;%E2%9A%A1+Automation+%7C+n8n+%2B+APIs+%2B+event%2Fworkflow-driven+systems" alt="Animated building on" /></p>
+<p align="center"><img src="assets/building-table.svg" width="900" alt="Building On animated table" /></p>
 
 ---
 
@@ -70,22 +70,17 @@ Aligned with **SDG 3 — Good Health & Well-Being** and **SDG 12 — Responsible
 ---
 
 ## 💼 Experience
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=700&color=FF4ECD&center=true&vCenter=true&width=900&lines=%F0%9F%92%BC+Developer+Intern+%7C+InnoBytes-Erfinden+%7C+Building+and+benchmarking+platforms+%C2%B7+UI%2FUX+%C2%B7+communication+%C2%B7+business+strategy;%E2%98%81%EF%B8%8F+Associate+Lead+%7C+AWS+Cloud+Club%2C+MIT+ADTU+%7C+Technical+documentation+%C2%B7+event+execution+%C2%B7+community+activities+%C2%B7+1500%2B+attendees;%F0%9F%9A%B4+Liaison+Officer+%7C+Bajaj+Pune+Grand+Tour+2026+%7C+Communication+%C2%B7+event+operations+%C2%B7+Global+Cycling+Team+-+Netherlands" alt="Animated experience" /></p>
+<p align="center"><img src="assets/experience-table.svg" width="1000" alt="Experience animated table" /></p>
 
 ---
 
 ## 🏆 Achievements
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3900&pause=650&color=00C6FF&center=true&vCenter=true&width=850&lines=%F0%9F%8F%86+Smart+India+Hackathon+2025+%E2%80%94+Internal+Evaluation+Shortlist+%7C+Problem+solving+%26+hackathon+execution;%F0%9F%8C%8D+UNESCO+Youth+Hackathon+%E2%80%94+Presented+India+%7C+International+collaboration+%26+communication;%F0%9F%A5%87+PRISM+Sociothon+2025+%E2%80%94+Top+10+Finalist+%7C+Product+thinking+%26+solution+building;%E2%98%81%EF%B8%8F+AWS+Certified+Cloud+Practitioner+%7C+Verified+cloud+fundamentals" alt="Animated achievements" /></p>
+<p align="center"><img src="assets/achievements-table.svg" width="950" alt="Achievements animated table" /></p>
 
 ---
 
 ## 📜 Certifications
-| Certification | Area |
-| :--- | :--- |
-| ☁️ `AWS Certified Cloud Practitioner` | Cloud |
-| 🤖 `AWS Academy Graduate — Machine Learning Foundations` | Machine Learning |
-| ☕ `Advanced Java — LearnerQuest / Coursera` | Java / Backend |
-| 📊 `GenAI in Data Analytics — Meta` | Generative AI / Analytics |
+<p align="center"><img src="assets/certifications-table.svg" width="950" alt="Certifications animated table" /></p>
 
 ---
 
