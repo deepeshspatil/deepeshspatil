@@ -1,3 +1,27 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F5CFF,100:FF4ECD&height=180&section=header&text=DEEPESH%20PATIL&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Deepesh Patil animated header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/deepeshspatil">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Cloud+%7C+AI+%7C+Data+Engineering+%7C+Automation;B.Tech+CSE+(AI+%26+Analytics)+%F0%9F%8E%93;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Building+AI-powered+%26+cloud-native+solutions+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Ship+%E2%9A%A1" alt="Animated introduction" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AI-Agentic%20AI-7F5CFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Data-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/deepeshspatil"><img src="https://komarev.com/ghpvc/?username=deepeshspatil&style=flat-square&color=7F5CFF" alt="Profile views" /></a>
+  <img src="https://img.shields.io/github/followers/deepeshspatil?style=flat-square&color=00C6FF" alt="GitHub followers" />
+</p>
+
+---
+
 # 👋 Hi, I'm Deepesh Patil
 
 ### `B.Tech CSE (AI & Analytics) | Cloud & AI Enthusiast | Developer | Builder`
